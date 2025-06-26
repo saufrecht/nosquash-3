@@ -1,3 +1,3 @@
 This is the second test file.
 
-The keyword is Android.
+The keyword is Bears.
